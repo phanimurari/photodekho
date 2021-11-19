@@ -1,0 +1,11 @@
+.home-bg-container {
+  background-color: #fafafa;
+  padding: 32px;
+  height: 90vh;
+  overflow-y: auto;
+  width: 100%;
+}
+.stories-container {
+  background-color: #ffffff;
+  max-width: 800px;
+}

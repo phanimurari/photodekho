@@ -1,0 +1,14 @@
+.transparent-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.header-navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+.search {
+  margin-left: auto;
+}

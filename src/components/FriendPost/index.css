@@ -1,0 +1,36 @@
+.friend-post-bg-container {
+  width: 100%;
+  max-width: 800px;
+  background-color: #ffffff;
+  margin-bottom: 32px;
+  border: 1px solid #dbdbdb;
+}
+.friend-profile-image {
+  height: 28px;
+  width: 28px;
+  left: 26px;
+  top: 16px;
+  border-radius: 14px;
+}
+.friend-profile-container {
+  display: flex;
+}
+.post-container {
+  width: 100%;
+  max-height: 400px;
+  overflow-y: hidden;
+  display: flex;
+  align-items: center;
+}
+.post-image {
+  width: 100%;
+}
+.friend-post-content-container {
+  padding: 16px;
+}
+.user-actions-icons {
+  font-size: 24px;
+}
+p {
+  margin: 2px;
+}

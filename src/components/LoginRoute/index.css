@@ -1,0 +1,17 @@
+.login-image {
+  height: 373px;
+  width: 582px;
+}
+.login-bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.form-container {
+  height: 458px;
+  width: 456px;
+  left: 824px;
+  top: 283px;
+  border-radius: 8px;
+}
